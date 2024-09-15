@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ogzhnsrgll@gmail.com**
 
-- ⚡ Fun fact **I am making contents for Youtube**
+- ⚡ **I am making contents for Youtube**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
