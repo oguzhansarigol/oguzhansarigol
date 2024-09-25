@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Oğuzhan</h1>
 <h3 align="center">A passionate computer engineering student from Türkiye</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and Machine Learning**
 
 - 💬 Ask me about **Turkiye and Youtube**
 
