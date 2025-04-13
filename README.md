@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Python, FastAPI, Machine Learning** and **SQL**
 
-- 💬 Ask me about **Turkiye and Youtube**
-
 - 📫 How to reach me **ogzhnsrgll@gmail.com**
 
 - ⚡ **I am making contents for Youtube**
