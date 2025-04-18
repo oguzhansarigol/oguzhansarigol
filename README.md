@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Oğuzhan</h1>
 <h3 align="center">A passionate computer engineering student from Türkiye</h3>
 
-- 🌱 I’m currently learning **Python, FastAPI, Machine Learning** and **SQL**
+- 🌱 I’m currently working on **Python, FastAPI, Machine Learning** and **SQL**
 
 - 📫 How to reach me **ogzhnsrgll@gmail.com**
 
