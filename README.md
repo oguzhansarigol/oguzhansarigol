@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on **Python, FastAPI, Machine Learning** and **SQL**
 
-- 📫 How to reach me **ogzhnsrgll@gmail.com**
+- 📫 How to reach me **oguzhansarigol1@gmail.com**
 
 - ⚡ **I am making contents for Youtube**
 
