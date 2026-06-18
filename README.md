@@ -12,9 +12,9 @@
 
 ### <img src="https://img.icons8.com/fluency/28/user-male-circle.png" width="26" align="top"/> About Me
 
-<img src="https://img.icons8.com/fluency/22/graduation-cap.png" width="18"/> A passionate **Computer Engineering** student from **Türkiye** 🇹🇷  
+<img src="https://img.icons8.com/fluency/22/graduation-cap.png" width="18"/> A passionate **Computer Engineering** student and Junior R&D Engineer from **Türkiye**  
 <img src="https://img.icons8.com/fluency/22/source-code.png" width="18"/> Currently working on **Python · FastAPI · Machine Learning · Digital Twins · SQL**  
-<img src="https://img.icons8.com/fluency/22/youtube-play.png" width="18"/> Creating tech content on **YouTube**  
+<img src="https://img.icons8.com/fluency/22/youtube-play.png" width="18"/> Creating Google Street View content on **YouTube**  
 <img src="https://img.icons8.com/fluency/22/domain.png" width="18"/> Personal website → **[oguzhansarigol.com](https://oguzhansarigol.com)**  
 <img src="https://img.icons8.com/fluency/22/gmail.png" width="18"/> Reach me at → **oguzhansarigol1@gmail.com**
 
