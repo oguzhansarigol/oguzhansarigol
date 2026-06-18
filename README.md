@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Oğuzhan</h1>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />, I'm Oğuzhan
+</h1>
 
 <p align="center">
   <a href="https://github.com/ogzhnsrgl">
@@ -8,17 +10,17 @@
 
 ---
 
-### 🧑‍💻 About Me
+### <img src="https://img.icons8.com/fluency/28/user-male-circle.png" width="26" align="top"/> About Me
 
-- 🎓 A passionate **Computer Engineering** student from **Türkiye** 🇹🇷
-- 🌱 Currently working on **Python · FastAPI · Machine Learning · Digital Twins · SQL**
-- ⚡ Creating tech content on **YouTube**
-- 🌐 Personal website → **[oguzhansarigol.com](https://oguzhansarigol.com)**
-- 📫 Reach me at → **oguzhansarigol1@gmail.com**
+<img src="https://img.icons8.com/fluency/22/graduation-cap.png" width="18"/> A passionate **Computer Engineering** student from **Türkiye** 🇹🇷  
+<img src="https://img.icons8.com/fluency/22/source-code.png" width="18"/> Currently working on **Python · FastAPI · Machine Learning · Digital Twins · SQL**  
+<img src="https://img.icons8.com/fluency/22/youtube-play.png" width="18"/> Creating tech content on **YouTube**  
+<img src="https://img.icons8.com/fluency/22/domain.png" width="18"/> Personal website → **[oguzhansarigol.com](https://oguzhansarigol.com)**  
+<img src="https://img.icons8.com/fluency/22/gmail.png" width="18"/> Reach me at → **oguzhansarigol1@gmail.com**
 
 ---
 
-### 🔗 Connect with me
+### <img src="https://img.icons8.com/fluency/28/link.png" width="26" align="top"/> Connect with me
 
 <p align="left">
   <a href="https://twitter.com/ogzhnsrgl" target="_blank">
