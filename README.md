@@ -1,15 +1,3 @@
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />, I'm Oğuzhan
-</h1>
-
-<p align="center">
-  <a href="https://github.com/ogzhnsrgl">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Computer+Engineering+Student;Python+%26+FastAPI+Developer;Machine+Learning+Enthusiast;Content+Creator+on+YouTube" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
 ### <img src="https://img.icons8.com/fluency/28/user-male-circle.png" width="26" align="top"/> About Me
 
 <img src="https://img.icons8.com/fluency/22/graduation-cap.png" width="18"/> A passionate **Computer Engineering** student and Junior R&D Engineer from **Türkiye**  
