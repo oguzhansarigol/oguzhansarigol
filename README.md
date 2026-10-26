@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ogzhnsrgl">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Computer+Engineering;Software+Developer;Machine+Learning+Enthusiast;Content+Creator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Computer+Engineering;Software+Developer;Digital+Twin+Enthusiast;Content+Creator" alt="Typing SVG" />
   </a>
 </p>
 
